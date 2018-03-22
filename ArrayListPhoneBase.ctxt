@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArrayListPhoneBase()
+comment0.text=\n\ Constructor\ that\ creates\ the\ array\ list\n
+comment1.params=phoneNumber
+comment1.target=boolean\ add(long)
+comment1.text=\n\ A\ method\ that\ adds\ a\ phone\ number\ \n\ into\ an\ array\ list\ of\ sorted\ phone\ numbers.\n\ It\ returns\ true\ if\ add\ is\ successful\ otherwise\n\ it\ throws\ an\ exception\n\ @param\ long\ phone\ number\n\ @return\ boolean\n
+comment2.params=k
+comment2.target=long\ select(int)
+comment2.text=\n\ A\ method\ that\ returns\ the\ kth\ smallest\ element\n\ from\ the\ array\ list.\ It\ throws\ an\ exception\n\ if\ the\ kth\ smallest\ element\ does\ not\ exit\n\ @param\ k\ the\ rank\ of\ the\ number\ to\ be\ returned\n\ @return\ long\n\ @throws\ exception\n
+comment3.params=
+comment3.target=long[]\ toArray()
+comment3.text=\n\ A\ method\ that\ converts\ the\ array\ list\ into\ an\ array\n\ containing\ the\ same\ elements\n\ @return\ long[]\n
+comment4.params=
+comment4.target=int\ getSize()
+comment4.text=\n\ A\ method\ that\ returns\ the\ size\ of\ the\ array\ list\n\ @return\ int\n
+numComments=5

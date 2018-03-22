@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RedBlackTreePhoneBase()
+comment0.text=\n\ Contructor\ for\ the\ class\ red\ black\ tree\n
+comment1.params=item
+comment1.target=boolean\ add(long)
+comment1.text=\n\ A\ method\ that\ adds\ a\ given\ element\ to\ the\ red\n\ black\ tree.\ Returns\ true\ if\ successful,\ false\ if\n\ duplicate\ element\n\ @param\ long\ phone\ number\ to\ be\ added\n\ @return\ boolean\n
+comment2.params=k
+comment2.target=long\ select(int)
+comment2.text=\n\ Returns\ the\ k-th\ smallest\ phone\ number\ in\ the\ tree\n\ @param\ int\ k\n\ @return\ long\n
+comment3.params=
+comment3.target=int\ getSize()
+comment3.text=\n\ Returns\ the\ current\ size\ of\ the\ tree\n\ @return\ int\n
+comment4.params=
+comment4.target=void\ print()
+comment4.text=\n\ Prints\ the\ tree\n
+numComments=5

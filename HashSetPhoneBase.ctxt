@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HashSetPhoneBase()
+comment0.text=\n\ Constructor\ for\ HashSetPhoneBase\n
+comment1.params=item
+comment1.target=boolean\ add(long)
+comment1.text=\n\ Adds\ an\ item\ to\ a\ hash\ set.\n\ Returns\ true\ if\ successful,\ else\ false\n\ @param\ long\ phone\ number\n\ @return\ boolean\n
+comment2.params=k
+comment2.target=long\ select(int)
+comment2.text=\n\ Selects\ the\ k-th\ smallest\ element\ in\ the\ hash\ set\n\ @param\ int\ k\n\ @return\ long\n
+comment3.params=low\ high\ k
+comment3.target=void\ quickSelect(int,\ int,\ int)
+comment3.text=\nA\ method\ to\ quick\ select\ a\ given\ linked\ list\ by\ recursively\ calling\nthe\ quick\ select\ method.\ A\ seperate\ method\ swaps\ the\ elements\n@param\ int\ lowest\ index\ currently\ in\ consideration\n@param\ int\ highest\ index\ currently\ in\ consideration\n
+comment4.params=first\ next
+comment4.target=void\ swapReferences(int,\ int)
+comment4.text=\nMethod\ to\ swap\ elements\ in\ the\ instance\ variable\ between\ntwo\ indices\n@param\ int\ first\ index\n@param\ int\ next\ index\n
+comment5.params=low\ high
+comment5.target=void\ insertionSort(int,\ int)
+comment5.text=\n\ Performs\ insertion\ sort\ ont\ the\ the\ given\ \n\ bounds\ of\ the\ array\n\ @param\ int\ lowest\ bound\ being\ used\n\ @param\ int\ highest\ bound\ being\ used\n
+comment6.params=
+comment6.target=java.lang.Long[]\ toArray()
+comment6.text=\n\ Putting\ the\ hash\ Set\ into\ an\ array\ \n\ @return\ Long[]\n
+comment7.params=
+comment7.target=int\ getSize()
+numComments=8

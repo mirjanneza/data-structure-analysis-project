@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ addHashSet()
+comment0.text=\n\ A\ method\ that\ checks\ that\ 4\ elements\ can\ be\ added\ to\ the\ hash\n\ set.\ It\ also\ checks\ that\ they\ are\ removed\ in\ the\ correct\ order.\n
+comment1.params=
+comment1.target=void\ testAddDuplicate()
+comment1.text=\n\ A\ test\ method\ to\ see\ that\ the\ program\ returns\ false\n\ if\ the\ user\ attempts\ to\ add\ a\ duplicate\ element\ to\ it\n
+comment2.params=
+comment2.target=void\ select0()
+comment2.text=\n\ A\ method\ that\ checks\ that\ the\ program\ return\ a\ -1\n\ when\ asked\ to\ find\ k-th\ with\ k<\=0\n
+comment3.params=
+comment3.target=void\ select4()
+comment3.text=\n\ A\ method\ that\ checks\ that\ the\ program\ return\ a\ -1\n\ when\ asked\ to\ find\ k-th\ with\ k>\ size\ of\ data\ structure\n
+comment4.params=
+comment4.target=void\ add100()
+comment4.text=\n\ Testing\ that\ the\ program\ can\ add\ 100\ numbers\ and\ return\ the\ \n\ time\ taken\ to\ do\ so\n
+comment5.params=
+comment5.target=void\ remove10()
+comment5.text=\n\ Testing\ that\ the\ program\ can\ remove\ 10\ numbers\ and\ return\ the\ \n\ time\ taken\ to\ do\ so\n
+comment6.params=
+comment6.target=void\ testRemoveEmpty()
+comment6.text=\n\ A\ test\ which\ checks\ that\ the\ program\ throws\ an\ error\ when\ you\ \n\ try\ to\ select\ from\ an\ empty\ hash\ set\n
+comment7.params=
+comment7.target=void\ testSize()
+comment7.text=\n\ A\ method\ that\ tests\ the\ size\ method\ to\ return\ the\ correct\ size\n
+comment8.params=
+comment8.target=void\ testSizeEmpty()
+comment8.text=\n\ A\ method\ that\ tests\ the\ size\ method\ to\ return\ the\ correct\ \n\ for\ an\ empty\ \n
+numComments=9
