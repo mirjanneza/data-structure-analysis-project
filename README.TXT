@@ -1,1 +1,1 @@
-Comparing different data structure methods and analysing their performance 
+Comparing the performance of different data structures
